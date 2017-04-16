@@ -1,4 +1,4 @@
-练习
+angularjs
 1. 无需部署
 
 2. 先安装 package.json 中的node模块,需要全局安装 gulp，即 
